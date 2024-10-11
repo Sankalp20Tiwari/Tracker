@@ -16,4 +16,4 @@ if(navigator.geolocation){
 )
 }
 
-L.map("map").setView([0, 0], 10)
+// L.map("map").setView([0, 0], 10)
